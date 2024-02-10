@@ -36,7 +36,7 @@ The main.py script interfaces with an I2C LCD display and a matrix keypad, allow
      ```
    - Clone this repository to your Raspberry Pi:
      ```
-     git clone https://github.com/yourrepository/BSA_MapCompassChecker.git
+     git clone https://github.com/Sebastian-Alexis/BSA_MapCompassChecker.git
      ```
    - Navigate to the cloned repository:
      ```
